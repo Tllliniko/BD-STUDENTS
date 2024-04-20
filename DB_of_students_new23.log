@@ -1,0 +1,6 @@
+﻿  DB_of_students_new23.cpp
+C:\Users\User-PC\Desktop\Курсач\ClassStudent.h(164,5): warning C4102: deafault: неиспользованная метка
+C:\Users\User-PC\Desktop\Курсач\DB_of_students_new23.cpp(37,9): warning C4102: deafault: неиспользованная метка
+C:\Users\User-PC\Desktop\Курсач\ClassEditData.h(116): warning C4715: ClassEditData::getData: значение возвращается не при всех путях выполнения
+C:\Users\User-PC\Desktop\Курсач\ClassEditData.h(126): warning C4715: ClassEditData::getData: значение возвращается не при всех путях выполнения
+  DB_of_students_new23.vcxproj -> C:\Users\User-PC\Desktop\Курсач\x64\Debug\DB_of_students_new23.exe
